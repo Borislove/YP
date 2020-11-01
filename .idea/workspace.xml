@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d2699e2e-f63c-42ba-a4f0-1319b5a62742" name="Default Changelist" comment="">
+    <list default="true" id="d2699e2e-f63c-42ba-a4f0-1319b5a62742" name="Default Changelist" comment="4 правила вёрстки">
+      <change afterPath="$PROJECT_DIR$/baseLending/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baseLending/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,17 +14,20 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="CSS File" />
-        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1jefr0SwvaLBWG1oHxn0fMugQOH" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,6 +38,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\WebstormProjects\YP\сover" />
+    </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html (1)">
     <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/YP/baseCSS/index.html" useBuiltInWebServerPort="true">
@@ -57,12 +67,24 @@
       <option name="presentableId" value="Default" />
       <updated>1604169672749</updated>
       <workItem from="1604169673802" duration="1358000" />
-      <workItem from="1604239470328" duration="977000" />
+      <workItem from="1604239470328" duration="2445000" />
     </task>
+    <task id="LOCAL-00001" summary="4 правила вёрстки">
+      <created>1604247322120</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604247322120</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="4 правила вёрстки" />
+    <option name="LAST_COMMIT_MESSAGE" value="4 правила вёрстки" />
   </component>
   <component name="WindowStateProjectService">
     <state x="838" y="477" key="Github.ShareDialog" timestamp="1604239542519">
@@ -73,5 +95,9 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="824" y="284" key="Github.UntrackedFilesDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1604239562964" />
+    <state x="552" y="312" key="Vcs.Push.Dialog.v2" timestamp="1604247325742">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="552" y="312" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1604247325742" />
   </component>
 </project>
